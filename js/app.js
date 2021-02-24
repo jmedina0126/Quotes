@@ -8,7 +8,7 @@
     },
     {
       quote:
-        "Humor is richly rewarding to the person who employs it. It has some value in gaining and holding attention. But it has no persuasive value at all",
+        "Humour is richly rewarding to the person who employs it. It has some value in gaining and holding attention. But it has no persuasive value at all",
       author: "John Kenneth Galbraith"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       quote:
-        "A true measure of a man is not where he stands in the moments of comfort and conveniance, but where he stands at times of challenge and controversy",
+        "A true measure of a man is not where he stands in the moments of comfort and conveniance, but where he stands at times of challenge and controversy.",
       author: "Martin Luther King JR"
     },
     {
@@ -68,7 +68,7 @@
     {
       quote:
         "Replace the fear of the unknown with curiosity.",
-      author: ""
+      author: "Alan Watts"
     },
     {
       quote:
@@ -87,7 +87,7 @@
     },
     {
       quote:
-        "Some men see things ass they are and ask why. Others dream things that never were and ask why not.",
+        "Some men see things as they are and ask why. Others dream things that never were and ask why not.",
       author: "George Bernard Shaw"
     },
     {
@@ -489,6 +489,58 @@
       quote:
         "Man surprises me most in life. Because he sacrifices his health in order to make money. Then he sacrifices his money to recuperate his health. And then he is so anxious about the future that he does not enjoy the present; the result being that he does not live in the present or the future; he lives as if he is never going to die, and then dies having never truly lived.",
       author: "Dalai Llama"
+    },
+    {
+      quote:
+        "Good, keep falling. Keep getting back up. That's the only way to succeed. Do not allow yourself to be weighed down by ego and pretence. Let go of what you fear to lose and rise up.",
+      author: "Jedi General Jaro Tapal, The Fallen Order"
+    },
+
+    // Not in my wesite yet
+    {
+      quote:
+        "Isn't it a pleasure to study and practice what you have learned? Isn't it also great when friends visit from distant places? If one remains not annoyed when he is not understood by people around him, isn't he a sage?",
+      author: "Confucius"
+    },
+    {
+      quote:
+        "At home, a young man should be a good son, when outside he should treat others like his brothers, his behaviour should be one of trustworthy and proper, and should love the multitude at large and keep himself close to people of benevolence and morality. If after all these activities, he has any energy to spare, he should read widely to stay cultivated.",
+      author: "Confucius"
+    },
+    {
+      quote:
+        "I hear and I forget. I see and I remember. I do and I understand.",
+      author: "Confucius"
+    },
+    {
+      quote:
+        "He who excels in study can follow an official career.",
+      author: "Confucius"
+    },
+    {
+      quote:
+        "A man who has committed a mistake and doesn't correct it is committing another mistake.",
+      author: "Confucius"
+    },
+    {
+      quote:
+        "The essence of having knowledge is to apply it; not having it, to confess your ignorance.",
+      author: "Confucius"
+    },
+    {
+      quote:
+        "",
+      author: ""
+    },
+    {
+      quote:
+        "",
+      author: ""
+    },
+    {
+      quote:
+        "",
+      author: ""
     },
     {
       quote:
